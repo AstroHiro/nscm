@@ -1,7 +1,7 @@
 # Source Codes for Neural Stochastic Contraction Metric (NSCM)
 This repository contains the source codes of the NSCM paper submitted to the IEEE L-CSS. It is a novel way of using spectrally-normalized neural networks for real-time computation of approximate nonlinear control and estimation policies, which are optimal and provably stable in the mean squared error sense even under stochastic disturbances.
 * We also recommend to visit our [Neural Contraction Metric (NCM)](https://github.com/AstroHiro/ncm) repository for details on how to use the NSCM class.
-* The NSCM paper is coming soon. For now, please refer to [the NCM paper](https://arxiv.org/abs/2006.04361)
+* The NSCM paper is coming soon. For now, please refer to [the NCM paper](https://arxiv.org/abs/2006.04361).
 
 ## [License](https://github.com/AstroHiro/ncm/blob/master/LICENSE.txt)
 MIT License
