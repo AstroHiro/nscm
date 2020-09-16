@@ -1,4 +1,4 @@
-# Neural Stochastic Contraction Metric (NSCM) Source Code
+# Source Codes for Neural Stochastic Contraction Metric (NSCM)
 Welcome to our NSCM python package for real-time robust nonlinear estimation and control via convex optimization for a class of stochastic nonlinear systems. We also recommend to visit our [Neural Contraction Metric (NCM)](https://github.com/AstroHiro/ncm) python package for details (see also [the NCM paper](https://arxiv.org/abs/2006.04361)).
 ### NCM class automatically computes
 * optimal, provably-stable, robust, and real-time state estimation and control policies of a given nonlinear dynamical system
