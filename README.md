@@ -3,7 +3,7 @@ This repository contains the source codes of the NSCM paper submitted to the IEE
 * We also recommend to visit our [Neural Contraction Metric (NCM)](https://github.com/AstroHiro/ncm) repository for details on how to use the NSCM class.
 * The NSCM paper is coming soon. For now, please refer to [the NCM paper](https://arxiv.org/abs/2006.04361).
 
-## [License](https://github.com/AstroHiro/nscm/blob/master/LICENSE.txt)
+## [License](https://github.com/AstroHiro/nscm/blob/master/LICENSE)
 MIT License
 
 Copyright (c) 2020 [Hiroyasu Tsukamoto](https://hirotsukamoto.com/)
